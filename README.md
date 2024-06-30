@@ -7,7 +7,9 @@ I'm tktq40, I've been learning and writing code in js for automation trading ite
 
 🌱 I’m currently learning:
 - Nodejs
-- Rust/C++
+- C
+- C++
+- ASM
 
 📫 How to reach me:
 - You can reach me via email at [tktrungquoc40@gmail.com](mailto:tktrungquoc40@gmail.com).
