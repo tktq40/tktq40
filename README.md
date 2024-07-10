@@ -6,10 +6,7 @@ I'm tktq40, I've been learning and writing code in js for automation trading ite
 - Node.js and cs2 trading automation.
 
 🌱 I’m currently learning:
-- Nodejs
-- C
-- C++
-- ASM
+- C#
 
 📫 How to reach me:
 - You can reach me via email at [tktrungquoc40@gmail.com](mailto:tktrungquoc40@gmail.com).
