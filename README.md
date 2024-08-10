@@ -1,10 +1,10 @@
 
-
-I'm tktq40, I've been learning and writing code in js for automation trading items between marketplace.
+I'm xeroz (tktq40), I've been learning and writing code in js for cs2 automation trading items and sniping deals on marketplaces.
 
 🔭 I’m currently working on:
 - Node.js and cs2 trading automation.
-
+- About my work and what i've done, please dm me on discord or send email directly to get anwser.
+  
 🌱 I’m currently learning:
 - C#
 
