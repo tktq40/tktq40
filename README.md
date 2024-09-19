@@ -6,7 +6,7 @@ I'm xeroz (tktq40), I've been learning and writing code in js for cs2 automation
 - About my work and what i've done, please dm me on discord or send email directly to get anwser.
   
 🌱 I’m currently learning:
-- C#
+- C#, C++
 
 📫 How to reach me:
 - You can reach me via email at [tktrungquoc40@gmail.com](mailto:tktrungquoc40@gmail.com).
